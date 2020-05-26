@@ -1,0 +1,27 @@
+var class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info =
+[
+    [ "ApoapsisAu", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#aae90fa3a6afb24159b4fd6c2dda4e63b", null ],
+    [ "DateTimeUnix", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#a14e6e93f770b2352604d143e1a34f2b6", null ],
+    [ "DateTimeUtc", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#a8dafebf8af4ca5962a1316b07c4768f6", null ],
+    [ "Details", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#a33e3ec4c4ab7ce80107f10854dc505be", null ],
+    [ "EarthDistanceKilometers", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#ab4895782a92608efe183b76571621f2d", null ],
+    [ "EarthDistanceMiles", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#ad717f37a7822540b2b250f2ed4c5b8b9", null ],
+    [ "Eccentricity", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#a52e56b34e3f11ee3b81401f91c4b6176", null ],
+    [ "EpochJd", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#a97d0541d79bcc176c7402d5e1c9de645", null ],
+    [ "Inclination", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#ab62c6dd24028a693e9ccbc97f63a711f", null ],
+    [ "LaunchMassKilograms", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#a13e3330e172a66394182d134edc89ecf", null ],
+    [ "LaunchMassPounds", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#a97753f8b0baa89ef4229d260c31ae63e", null ],
+    [ "Longitude", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#ab10a443f27d5015238de03693a829abd", null ],
+    [ "MarsDistanceKilometers", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#aa6bef57684afbc900d7cbe3e69cab921", null ],
+    [ "MarsDistanceMiles", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#a431674cbc49422046b40c822f0df7b21", null ],
+    [ "Name", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#a9268426aa2ed7c9464f6ff28638fae7a", null ],
+    [ "NoradId", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#ae66c532c1d09282845f6338ea9c0dfd5", null ],
+    [ "OrbitType", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#aacebc7334ab15e1db037031ada433925", null ],
+    [ "PeriapsisArg", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#aa062d832811354c2e40d53094c2f727a", null ],
+    [ "PeriapsisAu", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#a0f060961d2f8038d64072b87825160f6", null ],
+    [ "PeriodDays", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#a05fe857137a3be5eba6e68b460c2a928", null ],
+    [ "SemiMajorAxisAu", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#ad43d1c1a53cdd68b4b1775983329d985", null ],
+    [ "SpeedKph", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#ae31c2b6e9e72be35fe7f9df5ac080ec3", null ],
+    [ "SpeedMph", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#a7c74b8a682e2dfa0ba998a7503949bc7", null ],
+    [ "Wikipedia", "class_oddity_1_1_a_p_i_1_1_models_1_1_roadster_1_1_roadster_info.html#afa04968c8a00097913998d2766597404", null ]
+];

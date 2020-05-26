@@ -1,0 +1,4 @@
+var namespace_oddity_1_1_a_p_i_1_1_models_1_1_launch_1_1_rocket_1_1_second_stage_1_1_orbit =
+[
+    [ "OrbitParameters", "class_oddity_1_1_a_p_i_1_1_models_1_1_launch_1_1_rocket_1_1_second_stage_1_1_orbit_1_1_orbit_parameters.html", "class_oddity_1_1_a_p_i_1_1_models_1_1_launch_1_1_rocket_1_1_second_stage_1_1_orbit_1_1_orbit_parameters" ]
+];

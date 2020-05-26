@@ -1,0 +1,5 @@
+var namespace_oddity_1_1_a_p_i_1_1_builders_1_1_detailed_cores =
+[
+    [ "AllDetailedCoresBuilder", "class_oddity_1_1_a_p_i_1_1_builders_1_1_detailed_cores_1_1_all_detailed_cores_builder.html", "class_oddity_1_1_a_p_i_1_1_builders_1_1_detailed_cores_1_1_all_detailed_cores_builder" ],
+    [ "DetailedCoreBuilder", "class_oddity_1_1_a_p_i_1_1_builders_1_1_detailed_cores_1_1_detailed_core_builder.html", "class_oddity_1_1_a_p_i_1_1_builders_1_1_detailed_cores_1_1_detailed_core_builder" ]
+];
